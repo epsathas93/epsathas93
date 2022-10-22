@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @epsathas93
 - 👀 I’m interested in coding.
-- 🌱 I’m currently studying in University of Ioannina at MSc program of  Informatics and Networks.
+- 🌱 I’m currently studying at MSc program in  Informatics and Networks,University of Ioannina .
 - 📫 How to reach me epsathas93@gmail.com
